@@ -1,11 +1,10 @@
 ---
 name: self-remembering-practice
-description: Guide the development of divided attention - simultaneous awareness of
-  self and environment/activity.
+description: Guide the development of divided attention - simultaneous awareness of self and environment/activity.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - self-remembering-practice
 - writing

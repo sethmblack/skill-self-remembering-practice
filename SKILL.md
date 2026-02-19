@@ -4,7 +4,7 @@ description: Guide the development of divided attention - simultaneous awareness
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4940
+  version: 1.0.4941
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - self-remembering-practice
